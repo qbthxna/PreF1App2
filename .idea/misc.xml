@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.34074074074074073" />
+        <entry key="app/src/main/res/drawable/ic_baseline_broken_image_24.xml" value="0.158" />
+        <entry key="app/src/main/res/drawable/ic_baseline_directions_car_24.xml" value="0.184" />
+        <entry key="app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.158" />
+        <entry key="app/src/main/res/font/audiowide.xml" value="0.32051282051282054" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/driver_standings_item.xml" value="0.4360699865410498" />
+        <entry key="app/src/main/res/layout/fragment_schedule.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/fragment_standings.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/fragment_teams.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/nav_header.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/schedule_item.xml" value="0.39285495039345564" />
+        <entry key="app/src/main/res/layout/teams_item.xml" value="0.43048617597939315" />
+        <entry key="app/src/main/res/menu/drawer_menu.xml" value="0.28125" />
+        <entry key="app/src/main/res/menu/nav_menu.xml" value="0.2953125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.155" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.19610507246376813" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+{
+  "teamName": "Mercedes-AMG PETRONAS F1 Team",
+  "engine": "Mercedes",
+  "driver1": "Lewis Hamilton",
+  "driver1number": 44,
+  "driver2": "George Russel",
+  "driver2number": 63,
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Mercedes_AMG_Petronas_F1_Logo.svg",
+  "car": "https://www.formula1.com/content/dam/fom-website/manual/Misc/2022manual/WinterFebruary/Mercedes/03_W13_FrontRight_GR_Akk.jpg.transform/9col-retina/image.jpg"
+}

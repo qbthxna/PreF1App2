@@ -1,0 +1,102 @@
+[
+  {
+    "teamName": "Mercedes-AMG PETRONAS F1 Team",
+    "engine": "Mercedes",
+    "driver1": "Lewis Hamilton",
+    "driver1number": 44,
+    "driver2": "George Russel",
+    "driver2number": 63,
+    "logo": "https://i.pinimg.com/originals/fb/29/3d/fb293d8f472824f541de596f3d2a54d6.png",
+    "car": "https://www.formula1.com/content/dam/fom-website/manual/Misc/2022manual/WinterFebruary/Mercedes/03_W13_FrontRight_GR_Akk.jpg.transform/9col-retina/image.jpg"
+  },
+  {
+    "teamName": "Oracle Red Bull Racing F1 Team",
+    "engine": "Honda",
+    "driver1": "Max Verstappen",
+    "driver1number": 1,
+    "driver2": "Sergio Perez",
+    "driver2number": 11,
+    "logo": "https://www.cioupdate.com.tr/wp-content/uploads/2022/02/New-Project.jpg",
+    "car": "https://cdn-1.motorsport.com/images/mgl/6n9RnBeY/s1200/red-bull-racing-rb18-1.webp"
+  },
+  {
+    "teamName": "BWT Alpine F1 Team",
+    "engine": "Renault",
+    "driver1": "Fernando Alonso",
+    "driver1number": 14,
+    "driver2": "Estaban Ocon",
+    "driver2number": 31,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Alpine_F1_Team_Logo.svg/2233px-Alpine_F1_Team_Logo.svg.png",
+    "car": "https://cdn-1.motorsport.com/images/amp/6l9yznK0/s1000/alpine-a522-1.jpg"
+  },
+  {
+    "teamName": "Alfa Romeo F1 Team ORLEN",
+    "engine": "Ferarri",
+    "driver1": "Valteri Bottas",
+    "driver1number": 7,
+    "driver2": "Guanyu Zhou",
+    "driver2number": 24,
+    "logo": "https://cdn-5.motorsport.com/images/mgl/6xEeP710/s8/alfa-romeo-racing-logo-1.jpg",
+    "car": "https://cdn-2.motorsport.com/images/mgl/68yDZqx0/s8/alfa-romeo-racing-2022-f1-car-1.jpg"
+  },
+  {
+    "teamName": "Scuderia Ferrari",
+    "engine": "Ferrari",
+    "driver1": "Carlos Sainz",
+    "driver1number": 16,
+    "driver2": "Charles Leclerc",
+    "driver2number": 55,
+    "logo": "https://w7.pngwing.com/pngs/733/606/png-transparent-scuderia-ferrari-laferrari-car-formula-1-ferrari-logo-signage-ferrari.png",
+    "car": "https://cdn-1.motorsport.com/images/mgl/24vAKWq6/s1200/ferrari-f1-75-1.webp"
+  },
+  {
+    "teamName": "Scuderia AlphaTauri",
+    "engine": "Honda",
+    "driver1": "Pierre Gasly",
+    "driver1number": 22,
+    "driver2": "Yuki Tsunoda",
+    "driver2number": 7,
+    "logo": "https://www.formula1.com/content/fom-website/en/teams/AlphaTauri/_jcr_content/logo.img.jpg/1582650557134.jpg",
+    "car": "https://cdn-1.motorsport.com/images/amp/0qXVDEy6/s1000/formula-1-alphatauri-launch-20-2.jpg"
+  },
+  {
+    "teamName": "Williams F1 Team",
+    "engine": "Mercedes",
+    "driver1": "Alexander Albon",
+    "driver1number": 23,
+    "driver2": "Nicholas Latifi",
+    "driver2number": 6,
+    "logo": "https://cdn-2.motorsport.com/images/mgl/2y39NBy6/s800/williams-racing-logo-1.jpg",
+    "car": "https://cdn-1.motorsport.com/images/mgl/2Qzn5kPY/s1200/williams-fw44-1.webp"
+  },
+  {
+    "teamName": "McLaren F1 Team",
+    "engine": "McLaren",
+    "driver1": "Lando Norris",
+    "driver1number": 4,
+    "driver2": "Daniel Ricciardo",
+    "driver2number": 3,
+    "logo": "https://cdn-9.motorsport.com/images/mgl/YEQJgyLY/s800/mclaren-f1-team-logo-1.jpg",
+    "car": "https://cdn-1.motorsport.com/images/amp/63vAPEEY/s1000/daniel-ricciardo-mclaren-mcl36.jpg"
+  },
+  {
+    "teamName": "Aston Martin Aramco Cognizant F1 Team",
+    "engine": "Mercedes",
+    "driver1": "Sebastian Vettel",
+    "driver1number": 5,
+    "driver2": "Lance Stroll",
+    "driver2number": 18,
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/1/1b/Aston_martin_formula_1_takimi_logo.jpeg",
+    "car": "https://www.formula1.com/content/dam/fom-website/manual/Misc/2022manual/WinterFebruary/AstonMartinAMR22/6762_LS_AM_F1_ST_001_04a_w4_F_RGB_LYRD_AML%20copy.jpg.transform/9col/image.jpg"
+  },
+  {
+    "teamName": "Haas F1 Team",
+    "engine": "Ferrari",
+    "driver1": "Mick Schumacher",
+    "driver1number": 47,
+    "driver2": "Kevin Magnussen",
+    "driver2number": 2,
+    "logo": "https://cdn-5.motorsport.com/images/mgl/0ZRgKzM0/s800/haas-logo-1.jpg",
+    "car": "https://www.formula1.com/content/dam/fom-website/manual/Misc/2022manual/WinterTestingBarcelona/Day3/GettyImages-1372715074.jpg.transform/9col/image.jpg"
+  }
+]

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tool="http://schemas.android.com/tools"
+    tool:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_f1"
+            android:title="Formula 1" />
+        <item
+            android:id="@+id/nav_f2"
+            android:title="Formula 2" />
+        <item
+            android:id="@+id/nav_nascar"
+            android:title="Nascar" />
+    </group>
+    <item android:title="More">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:title="About" />
+            <item
+                android:id="@+id/nav_settings"
+                android:title="Settings" />
+        </menu>
+    </item>
+</menu>

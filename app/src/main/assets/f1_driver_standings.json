@@ -1,0 +1,162 @@
+[
+    {
+        "driver": "Lewis Hamilton",
+        "driverNumber": 44,
+        "team": "Mercedes",
+        "country": "United Kingdom",
+        "color": "#039be5",
+        "points": 16
+    },
+    {
+        "driver": "George Russell",
+        "driverNumber": 63,
+        "team": "Mercedes",
+        "country": "United Kingdom",
+        "color": "#039be5",
+        "points": 22
+    },
+    {
+        "driver": "Sebastian Vettel",
+        "driverNumber": 5,
+        "team": "Aston Marin",
+        "country": "Germany",
+        "color": "#00b100",
+        "points": 0
+    },
+    {
+        "driver": "Charles Leclerc",
+        "driverNumber": 16,
+        "team": "Ferrari",
+        "country": "Monaco",
+        "color": "#e50702",
+        "points": 45
+    },
+    {
+        "driver": "Carlos Sainz",
+        "driverNumber": 55,
+        "team": "Ferrari",
+        "country": "Spain",
+        "color": "#e50702",
+        "points": 33
+    },
+    {
+        "driver": "Max Verstappen",
+        "driverNumber": 1,
+        "team": "Red Bull",
+        "country": "Netherlands",
+        "color": "#5a11e5",
+        "points": 25
+    },
+    {
+        "driver": "Sergio Perez",
+        "driverNumber": 11,
+        "team": "Red Bull",
+        "country": "Mexico",
+        "color": "#5a11e5",
+        "points": 12
+    },
+    {
+        "driver": "Pierre Gasly",
+        "driverNumber": 10,
+        "team": "AlphaTauri",
+        "country": "France",
+        "color": "#536470",
+        "points": 4
+    },
+    {
+        "driver": "Yuki Tsunoda",
+        "driverNumber": 22,
+        "team": "AlphaTauri",
+        "country": "Japan",
+        "color": "#536470",
+        "points": 4
+    },
+    {
+        "driver": "Daniel Ricciardo",
+        "driverNumber": 8,
+        "team": "Red Bull",
+        "country": "Australia",
+        "color": "#e59000",
+        "points": 0
+    },
+    {
+        "driver": "Lando Norris",
+        "driverNumber": 4,
+        "team": "McLaren",
+        "country": "United Kingdom",
+        "color": "#e59000",
+        "points": 6
+    },
+    {
+        "driver": "Kevin Magnussen",
+        "driverNumber": 20,
+        "team": "Haas",
+        "country": "Denmark",
+        "color": "#b0c1cf",
+        "points": 12
+    },
+    {
+        "driver": "Mick Schumacher",
+        "driverNumber": 47,
+        "team": "Haas",
+        "country": "Germany",
+        "color": "#b0c1cf",
+        "points": 0
+    },
+    {
+        "driver": "Lance Stroll",
+        "driverNumber": 18,
+        "team": "Aston Martin",
+        "country": "Canada",
+        "color": "#00b100",
+        "points": 0
+    },
+    {
+        "driver": "Esteban Ocon",
+        "driverNumber": 31,
+        "team": "Alpine",
+        "country": "France",
+        "color": "#008be5",
+        "points": 14
+    },
+    {
+        "driver": "Fernando Alonso",
+        "driverNumber": 14,
+        "team": "Alpine",
+        "country": "Spain",
+        "color": "#008be5",
+        "points": 2
+    },
+    {
+        "driver": "Alex Albon",
+        "driverNumber": 24,
+        "team": "Williams",
+        "country": "Thailand",
+        "color": "#005eb2",
+        "points": 0
+    },
+    {
+        "driver": "Nicholas Latifi",
+        "driverNumber": 6,
+        "team": "Williams",
+        "country": "Canada",
+        "color": "#005eb2",
+        "points": 0
+    },
+    {
+        "driver": "Valteri Bottas",
+        "driverNumber": 77,
+        "team": "Alpha Romeo",
+        "country": "Finland",
+        "color": "#aa0000",
+        "points": 8
+    },
+    {
+        "driver": "Guanya Zhou",
+        "driverNumber": 24,
+        "team": "Alpha Romeo",
+        "country": "China",
+        "color": "#aa0000",
+        "points": 1
+    }
+]

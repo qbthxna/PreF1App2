@@ -1,0 +1,232 @@
+[
+    {
+        "raceId": 1,
+        "date": "18-03-2022",
+        "country": "Bahrain",
+        "event": "Bahrain GP",
+        "location": "Bahrain International Circuit",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Bahrain_Circuit.png",
+        "circuitLength": 5.412,
+        "lapRecord": "1:31.447"
+    },
+    {
+        "raceId": 2,
+        "date": "25-03-2022",
+        "country": "Saudi Arabia",
+        "event": "Saudi Arabian GP",
+        "location": "Jeddah",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Saudi_Arabia_Circuit.png.transform/5col/image.png",
+        "circuitLength": 6.174,
+        "lapRecord": "1:30.734"
+    },
+    {
+        "raceId": 3,
+        "date": "08-04-2022",
+        "country": "Australia",
+        "event": "Australian Grand Prix",
+        "location": "Albert Park, Melbourne",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Australia_Circuit.png.transform/5col/image.png",
+        "circuitLength": 5.303,
+        "lapRecord": "1:24.125"
+    },
+    {
+        "raceId": 4,
+        "date": "22-04-2022",
+        "country": "Italy",
+        "event": "Emilia Romagna Grand Prix",
+        "location": "Autodromo Internazionale Enzo e Dino Ferrari, Imola",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Emilia_Romagna_Circuit.png.transform/5col/image.png",
+        "circuitLength": 4.909,
+        "lapRecord": "1:15.484"
+    },
+    {
+        "raceId": 5,
+        "date": "06-05-2022",
+        "country": "United States",
+        "event": "Miami Grand Prix",
+        "location": "Circuit of the Americas, Austin",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Miami_Circuit.png.transform/5col/image.png",
+        "circuitLength": 5.41,
+        "lapRecord": "null"
+    },
+    {
+        "raceId": 6,
+        "date": "20-05-2022",
+        "country": "Spain",
+        "event": "Spanish Grand Prix",
+        "location": "Circuit de Catalunya, Barcelona",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Spain_Circuit.png.transform/5col/image.png",
+        "circuitLength": 4.675,
+        "lapRecord": "1:18.149"
+    },
+    {
+        "raceId": 7,
+        "date": "27-05-2022",
+        "country": "Monaco",
+        "event": "Monaco Grand Prix",
+        "location": "Monaco",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Monoco_Circuit.png.transform/5col/image.png",
+        "circuitLength": 3.337,
+        "lapRecord": "1:12.909"
+    },
+    {
+        "raceId": 8,
+        "date": "10-06-2022",
+        "country": "Azerbaija",
+        "event": "Azerbaijan Grand Prix",
+        "location": "Baku City Circuit",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Baku_Circuit.png.transform/5col/image.png",
+        "circuitLength": 6.003,
+        "lapRecord": "1:43.009"
+    },
+    {
+        "raceId": 9,
+        "date": "17-06-2022",
+        "country": "Canada",
+        "event": "Canadian Grand Prix",
+        "location": "Circuit Gilles Villeneuve, Montreal",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Canada_Circuit.png.transform/5col/image.png",
+        "circuitLength": 4.361,
+        "lapRecord": "1:13.078"
+    },
+    {
+        "raceId": 10,
+        "date": "01-07-2022",
+        "country": "The United Kingdom",
+        "event": "British Grand Prix",
+        "location": "Silverstone Circuit, Silverstone",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Great_Britain_Circuit.png.transform/5col/image.png",
+        "circuitLength": 5.891,
+        "lapRecord": "1:27.097"
+    },
+    {
+        "raceId": 11,
+        "date": "08-07-2022",
+        "country": "Austria",
+        "event": "Austrian Grand Prix",
+        "location": "Red Bull Ring, Spielberg",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Austria_Circuit.png.transform/5col/image.png",
+        "circuitLength": 4.318,
+        "lapRecord": "1:05.619"
+    },
+    {
+        "raceId": 12,
+        "date": "22-07-2022",
+        "country": "France",
+        "event": "French Grand Prix",
+        "location": "Circuit Paul Ricard, Le Castellet",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/France_Circuit.png.transform/5col/image.png",
+        "circuitLength": 5.842,
+        "lapRecord": "1:32.740"
+    },
+    {
+        "raceId": 13,
+        "date": "29-07-2022",
+        "country": "Hungary",
+        "event": "Hungarian Grand Prix",
+        "location": "Hungaroring, Budapest",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Hungary_Circuit.png.transform/5col/image.png",
+        "circuitLength": 4.381,
+        "lapRecord": "1:16.627"
+    },
+    {
+        "raceId": 14,
+        "date": "26-08-2022",
+        "country": "Belgium",
+        "event": "Belgian Grand Prix",
+        "location": "Spa-Francorchamps",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Netherlands_Circuit.png.transform/5col/image.png",
+        "circuitLength": 7.004,
+        "lapRecord": "1:46.286"
+    },
+    {
+        "raceId": 15,
+        "date": "02-09-2022",
+        "country": "Netherlands",
+        "event": "Dutch Grand Prix",
+        "location": "Zandvoort",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Belgium_Circuit.png.transform/5col/image.png",
+        "circuitLength": 4.259,
+        "lapRecord": "1:11.097"
+    },
+    {
+        "raceId": 16,
+        "date": "09-09-2022",
+        "country": "Italy",
+        "event": "Italian Grand Prix",
+        "location": "Monza",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Italy_Circuit.png.transform/5col/image.png",
+        "circuitLength": 5.793,
+        "lapRecord": "1:21.046"
+    },
+    {
+        "raceId": 17,
+        "date": "16-09-2022",
+        "country": "Turkey",
+        "event": "Turkish Grand Prix",
+        "location": "Intercity Istanbul Park, Istanbul",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Turkey_Circuit.png.transform/5col/image.png",
+        "circuitLength": 5.338,
+        "lapRecord": "1:36.806"
+    },
+    {
+        "raceId": 18,
+        "date": "02-10-2022",
+        "country": "Singapore",
+        "event": "Singapore Grand Prix",
+        "location": "Marina Bay Street Circuit",
+        "image": "https://www.formula1.com/content/dam/fom-website/manual/races/Singapore/singapore_track.png.transform/5col/image.png",
+        "circuitLength": 5.063,
+        "lapRecord": "1:41.905"
+    },
+    {
+        "raceId": 19,
+        "date": "07-10-2022",
+        "country": "Japan",
+        "event": "japanese Grand Prix",
+        "location": "Suzuka International Circuit",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Japan_Circuit.png.transform/5col/image.png",
+        "circuitLength": 5.807,
+        "lapRecord": "1:30.983"
+    },
+    {
+        "raceId": 20,
+        "date": "21-10-2022",
+        "country": "The United States of America",
+        "event": "US Grand Prix",
+        "location": "Circuit of the Americas, Austin",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/USA_Circuit.png.transform/5col/image.png",
+        "circuitLength": 5.513,
+        "lapRecord": "1:36.169"
+    },
+    {
+        "raceId": 21,
+        "date": "28-10-2022",
+        "country": "Mexico",
+        "event": "Mexican Grand Prix",
+        "location": "Autodromo Hermanos Rodriguez, Mexico City",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Mexico_Circuit.png.transform/5col/image.png",
+        "circuitLength": 4.304,
+        "lapRecord": "1:17.774"
+    },
+    {
+        "raceId": 22,
+        "date": "11-11-2022",
+        "country": "Brazil",
+        "event": "Brazilian Grand Prix",
+        "location": "Interlagos",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Brazil_Circuit.png.transform/5col/image.png",
+        "circuitLength": 4.309,
+        "lapRecord": "1:10.540"
+    },
+    {
+        "raceId": 23,
+        "date": "18-11-2022",
+        "country": "The United Arab Emirates",
+        "event": "Abu Dhabi Grand Prix",
+        "location": "Yas Marina Circuit",
+        "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Abu_Dhabi_Circuit.png.transform/5col/image.png",
+        "circuitLength": 5.281,
+        "lapRecord": "1:26.103"
+    }
+]
