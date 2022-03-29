@@ -4,6 +4,6 @@ import android.graphics.Color
 
 data class TeamStandingItem(
     val teamName: String,
-    val teamColor: Color,
-    val teamLogo: String
+    var teamColor: String = "#000000",
+    var point: Int = 0
 )
