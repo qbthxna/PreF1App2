@@ -31,6 +31,7 @@ class StandingsViewModel(
                 }
             }
         }
+        
     }
 
     private fun readText(context: Context): String {
