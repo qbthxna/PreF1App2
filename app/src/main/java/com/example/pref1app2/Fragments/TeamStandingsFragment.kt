@@ -8,18 +8,15 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import androidx.lifecycle.coroutineScope
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.pref1app2.adapters.TeamsAdapter
-import com.example.pref1app2.databinding.FragmentTeamsBinding
-import com.example.pref1app2.viewModelFactory.TeamsViewModelFactory
+import com.example.pref1app2.adapters.TeamsStandingsAdapter
+import com.example.pref1app2.databinding.FragmentTeamStandingsBinding
+import com.example.pref1app2.viewModelFactory.StandingsViewModelFactory
 import kotlinx.coroutines.launch
 
-
-class TeamsFragment : Fragment() {
-
-
-    private lateinit var binding: FragmentTeamsBinding
-    private val viewModel: TeamsViewModel by activityViewModels {
-        TeamsViewModelFactory(requireContext())
+class TeamStandingsFragment : Fragment() {
+    private lateinit var binding: FragmentTeamStandingsBinding
+    private val viewModel: StandingsViewModel by activityViewModels {
+        StandingsViewModelFactory(requireContext())
     }
 
     override fun onCreateView(
@@ -27,27 +24,23 @@ class TeamsFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View {
         // Inflate the layout for this fragment
-        binding = FragmentTeamsBinding.inflate(inflater, container, false)
-
-
+        binding = FragmentTeamStandingsBinding.inflate(inflater, container, false)
         return binding.root
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        val teamsAdapter = TeamsAdapter(
-            onClickTeams = {
+        val standingsAdapter = TeamsStandingsAdapter(
+            onClickDriver = {
 
             }
         )
 
-        binding.scheduleListRecycler.layoutManager = LinearLayoutManager(requireContext())
-        binding.scheduleListRecycler.adapter = teamsAdapter
+        binding.teamsListRecyler.layoutManager = LinearLayoutManager(requireContext())
+        binding.teamsListRecyler.adapter = standingsAdapter
 
         lifecycle.coroutineScope.launch {
-            teamsAdapter.submitList(viewModel.listOfTeams)
+            standingsAdapter.submitList(viewModel.listOfTeam)
         }
     }
-
-
 }

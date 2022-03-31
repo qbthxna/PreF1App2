@@ -3,12 +3,12 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:clipToPadding="true"
     android:orientation="vertical"
     android:visibility="visible"
     app:cardCornerRadius="5dp"
     app:cardElevation="3dp"
     app:cardUseCompatPadding="true"
-    android:clipToPadding="true"
     app:layout_constraintEnd_toEndOf="parent"
     app:layout_constraintStart_toStartOf="parent">
 
@@ -42,63 +42,50 @@
             app:layout_constraintTop_toTopOf="parent" />
 
         <androidx.appcompat.widget.AppCompatTextView
-            android:id="@+id/driver_name"
+            android:id="@+id/team_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
+            android:layout_marginStart="16dp"
             android:fontFamily="@font/audiowide"
-            android:text="Charles Leclerc"
+            android:text="Ferrari"
             android:textAppearance="@style/TextAppearance.AppCompat.Body2"
 
             android:textSize="16sp"
-            app:layout_constraintBottom_toTopOf="@+id/driver_Team"
+            app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toEndOf="@id/divider1"
             app:layout_constraintTop_toTopOf="parent" />
-
-        <androidx.appcompat.widget.AppCompatTextView
-            android:id="@+id/driver_Team"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:fontFamily="@font/audiowide"
-            android:text="Ferrari"
-            android:textAppearance="@style/TextAppearance.AppCompat.Small"
-            android:textSize="14sp"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintStart_toStartOf="@id/driver_name"
-            app:layout_constraintTop_toBottomOf="@id/driver_name" />
 
         <androidx.appcompat.widget.AppCompatTextView
             android:id="@+id/points"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginStart="250dp"
             android:layout_marginEnd="8dp"
-            android:layout_marginStart="190dp"
             android:fontFamily="@font/audiowide"
             android:text="45 pts"
 
-            app:layout_constraintHorizontal_bias="1"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
             android:textSize="16sp"
             app:layout_constraintBottom_toBottomOf="@id/divider1"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toEndOf="@+id/driver_name"
+            app:layout_constraintHorizontal_bias="1"
+            app:layout_constraintStart_toEndOf="@+id/team_name"
             app:layout_constraintTop_toTopOf="@id/divider1" />
 
         <TextView
             android:id="@+id/driverNumber"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginEnd="140dp"
             android:fontFamily="@font/audiowide"
             android:text="5"
-            android:layout_marginEnd="80dp"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
             android:textColor="#aa0000"
             android:textSize="20sp"
+            android:visibility="gone"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toStartOf="@+id/points"
             app:layout_constraintTop_toTopOf="parent" />
-
-
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>

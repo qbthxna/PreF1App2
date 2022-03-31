@@ -1,7 +1,6 @@
 package com.example.pref1app2.Fragments
 
 import android.content.Context
-import android.graphics.Color
 import androidx.lifecycle.ViewModel
 import com.example.pref1app2.data.DriverStandingsItem
 import com.example.pref1app2.data.TeamStandingItem
@@ -31,6 +30,7 @@ class StandingsViewModel(
                 }
             }
         }
+        listOfTeam.sortByDescending { it.point }
 
     }
 

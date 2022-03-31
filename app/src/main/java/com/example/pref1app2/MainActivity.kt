@@ -1,10 +1,8 @@
 package com.example.pref1app2
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.appcompat.app.ActionBarDrawerToggle
+import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.GravityCompat
-import androidx.fragment.app.Fragment
 import androidx.navigation.findNavController
 import com.example.pref1app2.databinding.ActivityMainBinding
 
