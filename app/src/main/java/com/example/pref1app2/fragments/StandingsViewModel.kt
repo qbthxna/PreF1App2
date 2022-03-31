@@ -1,4 +1,4 @@
-package com.example.pref1app2.Fragments
+package com.example.pref1app2.fragments
 
 import android.content.Context
 import androidx.lifecycle.ViewModel

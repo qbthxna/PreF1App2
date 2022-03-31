@@ -3,7 +3,7 @@ package com.example.pref1app2.viewModelFactory
 import android.content.Context
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.example.pref1app2.Fragments.ScheduleViewModel
+import com.example.pref1app2.fragments.ScheduleViewModel
 
 class ScheduleViewModelFactory(private val context: Context) : ViewModelProvider.Factory {
     override fun <T : ViewModel> create(modelClass: Class<T>): T {

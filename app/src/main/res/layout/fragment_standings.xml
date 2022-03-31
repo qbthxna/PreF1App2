@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="#F6EAEB"
     android:orientation="vertical"
-    tools:context=".Fragments.StandingsFragment">
+    tools:context=".fragments.StandingsFragment">
 
 
     <com.google.android.material.tabs.TabLayout

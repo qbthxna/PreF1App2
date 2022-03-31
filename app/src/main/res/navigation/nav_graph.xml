@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/scheduleFragment"
-        android:name="com.example.pref1app2.Fragments.ScheduleFragment"
+        android:name="com.example.pref1app2.fragments.ScheduleFragment"
         android:label="fragment_schedule"
         tools:layout="@layout/fragment_schedule" >
         <action
@@ -23,7 +23,7 @@
     </fragment>
     <fragment
         android:id="@+id/teamsFragment"
-        android:name="com.example.pref1app2.Fragments.TeamsFragment"
+        android:name="com.example.pref1app2.fragments.TeamsFragment"
         android:label="fragment_teams"
         tools:layout="@layout/fragment_teams" >
         <action
@@ -39,7 +39,7 @@
     </fragment>
     <fragment
         android:id="@+id/standingsFragment"
-        android:name="com.example.pref1app2.Fragments.StandingsFragment"
+        android:name="com.example.pref1app2.fragments.StandingsFragment"
         android:label="fragment_standings"
         tools:layout="@layout/fragment_standings" >
         <action

@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#F6EAEB"
-    tools:context=".Fragments.TeamStandingsFragment">
+    tools:context=".fragments.TeamStandingsFragment">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/teams_list_recyler"
