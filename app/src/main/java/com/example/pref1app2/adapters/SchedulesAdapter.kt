@@ -11,7 +11,9 @@ import com.example.pref1app2.data.TracksItem
 import com.example.pref1app2.databinding.ScheduleItemBinding
 
 class SchedulesAdapter(
-    private val onClickTrack: (TracksItem) -> Unit
+    private val onClickTrack: (TracksItem) -> Unit,
+    private val onClickDate: (TracksItem) -> Unit
+
 ) : ListAdapter<TracksItem, SchedulesAdapter.ScheduleListViewHolder>(DiffCallBack) {
 
     companion object DiffCallBack : DiffUtil.ItemCallback<TracksItem>() {
@@ -27,9 +29,14 @@ class SchedulesAdapter(
 
     class ScheduleListViewHolder(private val binding: ScheduleItemBinding) :
         RecyclerView.ViewHolder(binding.root) {
-        fun bind(tracksItem: TracksItem) {
+
+        fun bind(tracksItem: TracksItem, onClickDate: (TracksItem) -> Unit) {
 
 //            binding.deleteButton.setOnClickListener { onClickDelete(meal) }
+
+            binding.date.setOnClickListener {
+                onClickDate(tracksItem)
+            }
 
 
             binding.country.text = tracksItem.country
@@ -40,7 +47,9 @@ class SchedulesAdapter(
             binding.record.text = "Track Record: ${tracksItem.lapRecord}"
 
             val countryFlagUrl =
-                "https://www.countryflags.com/wp-content/uploads/${tracksItem.country.lowercase().replace(" ", "-", true)}-flag-png-large.png"
+                "https://www.countryflags.com/wp-content/uploads/${
+                    tracksItem.country.lowercase().replace(" ", "-", true)
+                }-flag-png-large.png"
             binding.countryFlag.load(countryFlagUrl) {
                 placeholder(R.drawable.loading_animation)
                 error(R.drawable.ic_baseline_broken_image_24)
@@ -62,7 +71,7 @@ class SchedulesAdapter(
                 LayoutInflater.from(parent.context)//, parent, false
             )
         )
-        // Itema tamamen tiklayinca calisiyinca calisiyot
+        // Itemin tamami
         viewHolder.itemView.setOnClickListener {
             val position = viewHolder.adapterPosition
             onClickTrack(getItem(position))
@@ -71,6 +80,6 @@ class SchedulesAdapter(
     }
 
     override fun onBindViewHolder(holder: ScheduleListViewHolder, position: Int) {
-        holder.bind(getItem(position))
+        holder.bind(getItem(position), onClickDate)
     }
 }
